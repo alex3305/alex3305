@@ -1,7 +1,7 @@
 <h3 align="center">Hello, I'm Alex 👋</h2>
-<h2 align="center">A full stack developer and tech enthousiast from 🇳🇱</h2>
+<h2 align="center">A full stack developer and tech enthusiast from 🇳🇱</h2>
 
-I love creating and creativity. I'm a formally educated full stack developer that has a ❤️ for all things tech.
+I'm a formally educated full stack developer that has a 🧡 for all things tech.
 
 ---
 
