@@ -76,8 +76,6 @@ Outside of tech, I enjoy exploring philosophy and reflecting on life's big quest
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 <img src="https://raw.githubusercontent.com/alex3305/alex3305/refs/heads/main/assets/line-neon.gif" width="100%">
-<br/>
-<br/>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=alex3305">
