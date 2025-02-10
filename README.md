@@ -1,6 +1,6 @@
-<img src="https://github.com/alex3305/alex3305/blob/main/assets/line-neon.gif" width="100%">
+<img src="https://raw.githubusercontent.com/alex3305/alex3305/refs/heads/main/assets/line-neon.gif" width="100%">
 
-<h3>Hello, I'm <a href="https://alxx.nl">Alex</a> <img src="https://github.com/alex3305/alex3305/blob/main/assets/wave.gif" alt="Waving hand emoji" title="👋" width="20"></h3>
+<h3>Hello, I'm <a href="https://alxx.nl">Alex</a> <img src="https://raw.githubusercontent.com/alex3305/alex3305/refs/heads/main/assets/wave.gif" alt="Waving hand emoji" title="👋" width="20"></h3>
 
 I'm a full stack developer with a Bachelor's degree in Information and Communication Technology. I'm deeply passionate about all things tech 🧡, from Home Automation to Docker and self-hosting solutions. As a full stack developer I also have a very broad skill set.
 
@@ -8,20 +8,9 @@ I thrive to connect and love discussing ideas—especially when it comes to tech
 
 Outside of tech, I enjoy exploring philosophy and reflecting on life's big questions. I believe in the power of continuous learning and thoughtful dialogue to enrich both my professional and personal life. I'm always open to collaborate and work together on exciting new projects.
 
-#### 👓 My current tech interests
+<img src="https://raw.githubusercontent.com/alex3305/alex3305/refs/heads/main/assets/line-neon.gif" width="100%">
 
-- [Docker](https://www.docker.com/)
-- [Home Assistant](https://www.home-assistant.io/)
-- [Kubernetes](https://kubernetes.io/)
-
-#### 🚀 Skills
-
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-
-#### ✍ Programming and scripting languages
+#### ✍ &nbsp;Programming and scripting languages
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,7 +25,7 @@ Outside of tech, I enjoy exploring philosophy and reflecting on life's big quest
 ![Shell script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-#### 🏗 Frameworks
+#### 🏗 &nbsp;Frameworks
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -47,15 +36,14 @@ Outside of tech, I enjoy exploring philosophy and reflecting on life's big quest
 ![Powershell](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-
-#### ☁ Cloud
+#### ☁ &nbsp;Cloud
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
+![Digital Ocean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-#### ⚡ Databases and queues
+#### ⚡ &nbsp;Databases and message queues
 
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -65,7 +53,7 @@ Outside of tech, I enjoy exploring philosophy and reflecting on life's big quest
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-#### 👩‍💻 IDEs
+#### 👩‍💻 &nbsp;IDEs
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
@@ -73,13 +61,24 @@ Outside of tech, I enjoy exploring philosophy and reflecting on life's big quest
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-#### 💻 OS
+#### 💻 &nbsp;OS
 
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-#### 📈 Github Stats
+#### 🚀 &nbsp;Other skills
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=alex3305)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+
+<img src="https://raw.githubusercontent.com/alex3305/alex3305/refs/heads/main/assets/line-neon.gif" width="100%">
+<br/>
+<br/>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=alex3305">
+</p>
